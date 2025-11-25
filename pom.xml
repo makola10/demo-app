@@ -54,7 +54,7 @@
 	<distributionManagement>
         <snapshotRepository>
             <id>test-devops</id>
-            <url>http://3.101.115.224:8081/repository/test-devops/</url>
+            <url>http://54.219.203.91:8081/repository/test-devops/</url>
          </snapshotRepository>
     </distributionManagement>
 
